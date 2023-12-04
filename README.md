@@ -1,3 +1,5 @@
+Ejercicio 10 React. En el commit puse que era el 9, pero me equivoqué. Subí los archivos del Ejercicio 10 correctamente.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
